@@ -53,8 +53,8 @@ const Footer = () => {
               ShopMe
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              ShopMe is a e-commerce website where you can buy any product from
+              any part of the world.
             </p>
           </div>
 
@@ -112,11 +112,11 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p>123 Main Street, Anytown USA</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
-                  <p>+91 123456789</p>
+                  <p>009-123-456-789</p>
                 </div>
               </div>
             </div>
